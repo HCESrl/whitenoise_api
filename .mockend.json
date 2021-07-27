@@ -1,0 +1,10 @@
+{
+  "ContactRequest": {
+    "email": { "string": {} },
+    "country": { "string": {} },
+    "town": { "string": {} },
+    "customer_type": { "string": {} },
+    "privacy_marketing": { "string": {} },
+    "privacy_profiling": { "string": {} },
+    "privacy_marketing_group": { "string": {} }
+}
