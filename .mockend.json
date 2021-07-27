@@ -7,4 +7,5 @@
     "privacy_marketing": { "string": {} },
     "privacy_profiling": { "string": {} },
     "privacy_marketing_group": { "string": {} }
+  }
 }
