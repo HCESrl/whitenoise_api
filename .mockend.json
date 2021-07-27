@@ -1,5 +1,5 @@
 {
-  "ContactRequest": {
+  "Contactrequest": {
     "email": { "string": {} },
     "country": { "string": {} },
     "town": { "string": {} },
